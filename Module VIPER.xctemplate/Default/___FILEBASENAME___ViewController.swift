@@ -10,7 +10,7 @@
 
 import UIKit
 
-class ___VARIABLE_productName:identifier___ViewController: UIViewController, ___VARIABLE_productName:identifier___ViewProtocol {
+class ___VARIABLE_productName:identifier___ViewController: UIViewController {
 
 	var presenter: ___VARIABLE_productName:identifier___PresenterProtocol?
 
@@ -18,4 +18,8 @@ class ___VARIABLE_productName:identifier___ViewController: UIViewController, ___
         super.viewDidLoad()
     }
 
+}
+
+extension ___VARIABLE_productName:identifier___ViewController: ___VARIABLE_productName:identifier___ViewProtocol {
+	
 }

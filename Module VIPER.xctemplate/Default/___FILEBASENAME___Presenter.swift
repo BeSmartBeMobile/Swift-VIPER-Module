@@ -6,8 +6,6 @@
 //  Copyright © ___YEAR___ ___ORGANIZATIONNAME___. All rights reserved.
 //
 
-import UIKit
-
 class ___VARIABLE_productName:identifier___Presenter {
 
     weak private var view: ___VARIABLE_productName:identifier___ViewProtocol?
